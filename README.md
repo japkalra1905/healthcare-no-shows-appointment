@@ -1,2 +1,2 @@
-# healthcare-no-shows-appointment
-This project analyzes a Medical Appointment Dataset to identify factors influencing patient attendance. It explores demographics, medical conditions, social factors, and appointment details through data cleaning, EDA, and machine learning. The goal is to predict no-shows, improve scheduling efficiency, and support better healthcare decision-making.
+# amazon sales dataset
+The bar chart of sales over time is a great first step in understanding your data. It clearly shows the overall sales trend, highlighting periods of high and low performance. By looking at the height of the bars, you can easily spot your best and worst days for sales and identify any recurring patterns or cycles, such as a drop in sales on weekends or a peak at the end of the month. This simple yet effective visualization provides a quick overview of your business's health and serves as a foundation for deeper analysis.
